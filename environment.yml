@@ -1,0 +1,8 @@
+name: xeus
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling
+  - xtensor
+  - xtensor-blas
+  - notebook
